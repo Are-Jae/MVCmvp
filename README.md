@@ -46,3 +46,4 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Functionality 
 
+App is not functional as I am unable to complete the code. This project is incomplete. 
